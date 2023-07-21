@@ -1,2 +1,4 @@
-This I test 2 file
+This I test 2 text file
+
+This some changes in main 2
 
